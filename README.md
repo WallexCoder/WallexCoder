@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Walshak</h1>
 
 <p align="center font-bold">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Frontend+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;Frontend+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Engineer** from Nigeria 🇳🇬.
+Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer** from Nigeria 🇳🇬.
 
 💻 I build modern, scalable web applications from frontend to backend.
 
