@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer** from Nigeria 🇳🇬.
+Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer**.
 
 💻 I build modern, scalable web applications from frontend to backend.
 
