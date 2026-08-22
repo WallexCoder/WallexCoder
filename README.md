@@ -14,7 +14,7 @@ Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer**.
 
 🎯 My goal is to become a world-class software engineer who builds products that solve real-world problems.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 ### 🎨 Frontend
 
