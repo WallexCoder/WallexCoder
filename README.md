@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Walshak</h1> 
+<h1 align="center">Hey 👋, I'm Walshak</h1>
 
-<p align="center font-bold">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;AI+Automation+Engineer;Building+Intelligent+Automation+Systems;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer**. 
+Hey! I'm **Walshak**, a Full-Stack Software Developer and AI Automation Engineer from Nigeria 🇳🇬.
 
-💻 I build modern, scalable web applications from frontend to backend.
+- 💻 Building modern web applications and software products.
+- 🤖 Designing AI-powered automation systems and intelligent workflows.
+- ⚙️ Helping businesses automate repetitive tasks and improve efficiency.
+- 🚀 Turning ideas into practical solutions that solve real-world problems.
+- 🌱 Always exploring better ways to build, automate, and innovate.
 
-🚀 I enjoy turning ideas into real products using React, Next.js, Node.js, Express, Python, FastAPI, and PostgreSQL.
-
-🎯 My goal is to become a world-class software engineer who builds products that solve real-world problems.
+**My mission:** Build software and intelligent automation systems that make work easier and businesses more efficient.
 
 ## 🚀 Tech Stack 
+
+### 🤖 AI & Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Workflows-8A2BE2?style=for-the-badge)
 
 ### 🎨 Frontend
 
@@ -48,18 +57,20 @@ Hi 👋, I'm **Walshak**, a passionate **Full-Stack Software Developer**.
 
 ## 🚀 Featured Projects
 
-### 🛒 NovaFit
-A modern e-commerce application featuring authentication, shopping cart, secure backend APIs, and responsive design.
+### 🤖 QuickEats AI Support System
+An AI-powered support system designed to help businesses handle customer inquiries more efficiently.
 
-**Tech:** Next.js • TypeScript • Node.js • Express • PostgreSQL • Prisma
+**Focus:** AI Automation • Workflow Automation • API Integration
 
----
+### 📧 AI Email Assistant
+An automation system designed to help businesses manage email tasks more efficiently.
 
-### 🌱 AgroMart
-A fertilizer marketplace connecting farmers with suppliers through a clean and user-friendly platform.
+**Focus:** AI Automation • Business Process Automation
 
-**Tech:** React • Express • PostgreSQL
+### 🌐 ZoriaAI
+An AI-powered SaaS product focused on helping developers and content creators.
 
+**Focus:** Full-Stack Development • AI Integration
 
 ## 📊 GitHub Stats
 
