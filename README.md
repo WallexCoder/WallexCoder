@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Walshak**, a Full-Stack Software Developer and AI Automation Engineer from Nigeria 🇳🇬.
+Hey! I'm **Walshak**, a Full-Stack Software Developer and AI Automation Engineer.
 
 - 💻 Building modern web applications and software products.
 - 🤖 Designing AI-powered automation systems and intelligent workflows.
