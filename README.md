@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Walshak</h1> 
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;AI+Automation+Engineer;Building+Intelligent+Automation+Systems;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
